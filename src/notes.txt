@@ -1,0 +1,11 @@
+TODO:
+Skriv hardcodede placeringer.
+
+Future work:
+Make more pw complexity requirements and recommendation (dont use dictionary words, use capital and non cap letters,
+use numbers and symbols)
+Make it impossible to use same pw as master and as key. This will make it so if a hacker gets cracks the master they
+can still not decrypt.
+Make it impossible to have 2 keys with the same pw: Doesnt make sense. u might aswell have 1 key then, because if that
+key gets cracked all your other keys with that pw is comprimised.
+Make more stuff private.
